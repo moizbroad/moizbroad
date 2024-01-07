@@ -15,6 +15,6 @@
 
 🎓 Bachelor's degree in Computer Science with a focus on blockchain technology.
 
-📧 Feel free to reach out to me at mztech301@gmail.com
+📧 Feel free to reach out to me at muhammadmoizkhan@gmail.com
 
 Let's connect and collaborate on exciting blockchain projects!
