@@ -7,7 +7,7 @@
 
 🔗 Currently working and learning new things in the blockchain space.
 
-💼 Experienced in developing various blockchain projects including wallets, tokens, and crowdfunding dapps.
+💼 Experienced in developing various blockchain projects including wallets, tokens, and crowdfunding dapps as wll as build robust dynamic blockchain ui .
 
 💡 Passionate about leveraging blockchain technology to drive innovation and solve real-world challenges.
 
