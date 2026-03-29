@@ -39,7 +39,7 @@ I don't just "write code." I take ownership of the entire feature lifecycle:
 3. **Scale-First:** I build with **PostgreSQL** and **Redis** to ensure the system handles 10k+ concurrent users.
 
 ### 📫 Connect with me
-- **LinkedIn:** [Moiz Khan](https://www.linkedin.com/in/moiz-khan-dev/) - **Currently:** Open to senior-level roles in AI-first startups.
+- **LinkedIn:** [Moiz Khan](https://www.linkedin.com/in/moiz-khan-dev/) - *
 
 ---
 *“Building the bridge between human intent and machine intelligence.”*
