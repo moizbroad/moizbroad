@@ -1,7 +1,7 @@
 # Hi, I'm Moiz Khan 👋
 ### Senior Full-Stack Product Engineer | AI Orchestration Specialist
 
-I am a Product-Focused Engineer with 3+ years of experience specializing in **MERN Stack **. I bridge the gap between complex AI logic and high-performance user interfaces. Currently, I am architecting autonomous agent workflows using the **Anthropic Claude API**.
+I am a Product-Focused Engineer with 3+ years of experience specializing in MERN Stack . I bridge the gap between complex AI logic and high-performance user interfaces. Currently, I am architecting autonomous agent workflows using the **Anthropic Claude API**.
 
 ---
 
