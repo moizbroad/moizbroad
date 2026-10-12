@@ -8,9 +8,8 @@ I am a Product-Focused Engineer with 3+ years of experience specializing in MERN
 ### 🏗️ Technical Specialization: AI & Full-Stack
 I focus on the **TypeScript Ecosystem** to ensure type-safety and performance in AI-driven applications.
 
-- **Frontend:** Next.js 15 (App Router), React, Tailwind CSS, Framer Motion
-- **Backend:** Node.js, Express, PostgreSQL, Redis (Caching & Rate Limiting)
-- **AI/LLM:** Anthropic Claude API (Sonnet 3.5/4), RAG Pipelines, Vector DBs (PGVector)
+- **Frontend:** Javascript , TypeScript , python Next.js 15 (App Router), React, Tailwind CSS, Framer Motion
+- **Backend:** Node.js, Express, FastApi , RestApi  PostgreSQL, Redis (Caching & Rate Limiting)
 - **Architecture:** System Design, Scalable API Design, Real-time WebSockets
 
 ---
